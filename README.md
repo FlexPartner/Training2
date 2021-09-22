@@ -1,5 +1,6 @@
 # Training2
 Rebase, fork, reset
 
-# [nothing about cam](https://www.youtube.com/watch?v=12rT3uotaqk)
 
+
+### [Why says cam?](https://www.youtube.com/watch?v=j0lN0w5HVT8)
